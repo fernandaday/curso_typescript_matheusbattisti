@@ -1,0 +1,10 @@
+2022-07-29 23:08:29 - [31merror[39m: [31mNão foi possível conectar![39m
+2022-07-29 23:08:29 - [31merror[39m: [31mErro: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m
+2022-07-31 18:46:25 - [31merror[39m: [31mNão foi possível conectar![39m
+2022-07-31 20:05:29 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "62e7085f1b638197cd92342fd" (type string) at path "_id" for model "Movie"[39m
+2022-07-31 20:06:08 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "62e7085f1b638197cd92342" (type string) at path "_id" for model "Movie"[39m
+2022-07-31 20:06:39 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "62e7085f1b638197cd92342" (type string) at path "_id" for model "Movie"[39m
+2022-07-31 20:09:14 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "62e7085f1b638197cd92342" (type string) at path "_id" for model "Movie"[39m
+2022-07-31 20:11:23 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "62e7085f1b638197cd92342g" (type string) at path "_id" for model "Movie"[39m
+2022-07-31 20:12:51 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "62e7085f1b638197cd92342g" (type string) at path "_id" for model "Movie"[39m
+2022-07-31 20:41:24 - [31merror[39m: [31mErro no sistema: Performing an update on the path '_id' would modify the immutable field '_id'[39m
